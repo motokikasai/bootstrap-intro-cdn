@@ -17,5 +17,5 @@ main {
   background: linear-gradient(to right, black, transparent);
   width: 100vw;
   height: 100vh;
-  padding: 100px;
+  padding: 100px 0;
 }
